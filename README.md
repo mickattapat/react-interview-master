@@ -7,7 +7,6 @@
 - We provide discount list API which is contains code and amount
 - Create a list of cars and cart checkout
 - You can refactor anyway you want
--
 
 ## Requirements
 
@@ -50,3 +49,14 @@ If you can't access or not receive the mail, please contact us (developers@drive
 
 - Clone this respository and create your own git (gitlab/github)
 - Reply email with git url
+
+### Setup & Installation
+```bash
+yarn install
+```
+
+### Run Development
+
+```bash
+yarn start
+```
