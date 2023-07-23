@@ -1,0 +1,5 @@
+
+.content , .profile {
+  min-height: calc(100vh - (80px + 124px));
+  margin: 0 auto;
+}
